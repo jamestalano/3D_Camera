@@ -2,8 +2,8 @@
 //  ImageViewController.h
 //  cameraApp
 //
-//  Created by WilliamJu on 1/9/17.
-//  Copyright © 2017 WilliamJu. All rights reserved.
+//  Created by James Talano on 1/9/17.
+//  Copyright © 2017 James Talano. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

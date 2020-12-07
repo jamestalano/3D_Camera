@@ -2,8 +2,8 @@
 //  cameraAppUITests.m
 //  cameraAppUITests
 //
-//  Created by WilliamJu on 12/30/16.
-//  Copyright © 2016 WilliamJu. All rights reserved.
+//  Created by James Talano on 12/30/16.
+//  Copyright © 2016 James Talano. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
